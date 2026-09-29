@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Diana
 
-🎓 Early-career Machine Learning Engineer  
-📍 Based in Kazakhstan → soon moving to Rome 🇮🇹  
-📚 Incoming MSc Data Science student @ Sapienza University of Rome  
-🧠 Passionate about Machine Learning, MLOps, and scalable systems
+🎓 MSc Data Science student at Sapienza University of Rome
+📍 Based in Rome, Italy
+📊 Data Analyst with a growing focus on Machine Learning
+🧠 Currently building practical ML and Data Science projects
 
 ---
 
@@ -17,19 +17,22 @@
 
 ---
 
-## 🧪 My Focus Areas
-
-- ML model development & evaluation  
-- Scalable ML architecture using Kubernetes & Docker  
-- End-to-end ML projects with real-world datasets  
-- MLOps: CI/CD pipelines, model versioning, containerization  
-- Automation & experiment tracking
+## 🧪 What I'm Working On
+Data analysis and visualization
+Machine Learning model development and evaluation
+Feature engineering and data preprocessing
+End-to-end Data Science projects
+Exploring MLOps and model deployment
+Working with real-world datasets and Kaggle projects
 
 ---
 
-## 🚀 Featured Projects
-
-🛠 projects coming soon!
+## 📚 Currently Learning
+Machine Learning
+Deep Learning
+MLOps
+Data Engineering
+Model deployment and scalable ML systems
 
 ---
 
