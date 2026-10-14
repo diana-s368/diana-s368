@@ -13,7 +13,7 @@
 - **ML Libraries**: scikit-learn, pandas, PyTorch, TensorFlow  
 - **Infrastructure**: Docker, Kubernetes
 - **Data**: PostgreSQL, FastAPI, MLFlow, Spark  
-- **Other**: Git, GitHub, Linux, 
+- **Other**: Git, GitHub, Linux, SolidWorks
 
 ---
 
